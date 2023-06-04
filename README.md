@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alejandra Camelo Cruz
-- 👀 I’m interested in computational linguistics and applications of Computational Science to Linguistics
+- 👀 I am a linguist and student of the Master's degree in computational science at the University of Potsdam interested in computational linguistics, applications of Computational Science to Linguistics, general linguistics and minoritized languages. I am also a rsearch assistant of the project [LeibnizDream](https://leibnizdream.eu) of the [Leibniz Institute for General Linguistics](https://www.leibniz-zas.de/de/) in Berlin, Germany. 
 - 🌱 I’m currently learning how to do better research 
 - 📫 How to reach me @camelo.cruz@leibniz-zas.de
 
