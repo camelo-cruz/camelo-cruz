@@ -15,6 +15,12 @@
 My name is **Alejandra Camelo Cruz** and I'm a **Linguist**, currently studying my Master's degree in **Computational Science** at the University of Potsdam. I am interested in Computational Linguistics, applications of Computational Science to Linguistics, General Linguistics and minoritized languages. I am also a research assistant of the project [LeibnizDream](https://leibnizdream.eu) of the [Leibniz Institute for General Linguistics](https://www.leibniz-zas.de/de/) in Berlin, Germany. 
 - 📫 How to reach me: camelo.cruz@leibniz-zas.de
 
+## ⚙️ Technologies & Tools
+
+![badge-python](https://img.shields.io/badge/code-python-0bbf44?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
+![badge-java](https://img.shields.io/badge/code-java-0bbf44?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
+![badge-git](https://img.shields.io/badge/version_control-git-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
+
 <!---
 camelo-cruz/camelo-cruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
