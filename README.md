@@ -12,7 +12,7 @@
 
 
 
-My name is **Alejandra Camelo Cruz** and I'm a **Linguist**, currently studying my Master's degree in **Computational Science** at the University of Potsdam. I am interested in Computational Linguistics, applications of Computational Science to Linguistics, General Linguistics and minoritized languages. I am also a research assistant of the project [LeibnizDream](https://leibnizdream.eu) of the [Leibniz Institute for General Linguistics](https://www.leibniz-zas.de/de/) in Berlin, Germany. 
+My name is **Alejandra Camelo Cruz** and I'm a **Linguist**, currently studying my Master's degree in **Computational Science** at the University of Potsdam. I am interested in Computational Linguistics, applications of Computational Science to Linguistics, General Linguistics and minoritized languages. I am also in charge of the computer base pre and postprocessing of the experiments in the [LeibnizDream](https://leibnizdream.eu) project of the [Leibniz Institute for General Linguistics](https://www.leibniz-zas.de/de/) in Berlin, Germany. 
 - 📫 How to reach me: camelo.cruz@leibniz-zas.de
 
 ## ⚙️ Technologies & Tools
