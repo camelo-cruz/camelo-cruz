@@ -12,7 +12,7 @@
 
 
 
-  My name is **Alejandra Camelo Cruz** and I'm a (computational) **Linguist**, and **Computational Scientist** from the University of Potsdam. I am interested in NLP, Computational Linguistics, applications of Computer Science to Research and Science and underresourced (languages) NLP. I am currently in charge of the computer base pre and postprocessing of the experiments in the [LeibnizDream](https://leibnizdream.eu) project of the [Leibniz Institute General Linguistics (ZAS)](https://www.leibniz-zas.de/de/) in Berlin, Germany. 
+  My name is **Alejandra Camelo Cruz** and I'm a **Computational Linguist** and **Computational Scientist** from the University of Potsdam. I am interested in NLP, Computational Linguistics, applications of Computer Science to Research and Science and underresourced (languages) NLP. I am currently in charge of the computer base pre and postprocessing of the experiments in the [LeibnizDream](https://leibnizdream.eu) project of the [Leibniz Institute General Linguistics (ZAS)](https://www.leibniz-zas.de/de/) in Berlin, Germany. 
 - 📫 How to reach me: camelo.cruz@leibniz-zas.de
 
 ## ⚙️ Technologies & Tools
