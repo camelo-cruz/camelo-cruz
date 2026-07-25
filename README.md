@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandracamelo/"><img height="30" color= blue src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-  <a href="mailto:camelo.cruz@leibniz-zas.de"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/02/Outlook-logo-5.png"></a>
 
 </p>
 
